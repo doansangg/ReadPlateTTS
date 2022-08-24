@@ -25,7 +25,7 @@
  	 --text TEXT                    raw text to synthesize, for single-sentence mode only
 
  	 --configPath CONFIGPATH       path file config model 
-​								   Default : "config/config.yaml"`
+​	                               Default : "config/config.yaml"`
 ```
 
 
