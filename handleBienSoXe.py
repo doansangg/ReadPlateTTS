@@ -140,14 +140,14 @@ if __name__ == "__main__":
     parser.add_argument(
         "--text",
         type=str,
-        default=None,
+        required=True,
         help="raw text to synthesize, for single-sentence mode only",
     )
     parser.add_argument(
         "--configPath",
         type=str,
         default='config/config.yaml',
-        help="raw text to synthesize, for single-sentence mode only",
+        help="path file config model",
     )   
     args = parser.parse_args()
 
