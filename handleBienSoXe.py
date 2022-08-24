@@ -126,7 +126,9 @@ class HandleBSX():
                     self.preprocess_config,
                     self.train_config["path"]["result_path"],
                 )
-        wavfile.write(os.path.join("output/result/viet-tts", "{}.wav".format("basename")), 22050, wav_prediction)
+        pathFile=os.path.join("output/result/viet-tts", "{}.wav".format("basename"))
+        wavfile.write(pathFile, 22050, wav_prediction)
+        return pathFile
         
 
 
