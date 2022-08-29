@@ -1,5 +1,8 @@
 # Read Plate TTS
 
+## Tải module
+	Link tải: https://drive.google.com/drive/folders/1DFP2Hka-9Q1UWxUbG_FJd3HrTh9LaZ7N?usp=sharing
+
 ## Yêu cầu: 
 
    + python 3.6
