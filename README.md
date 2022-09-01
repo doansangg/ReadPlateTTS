@@ -20,7 +20,7 @@
 ### 	Chạy trực tiếp module:
 
 ```
-##### usage:python3 handleBienSoXe.py [-h] --text TEXT [--configPath CONFIGPATH]
+##### usage:python3 handleBienSoXe[1-2].py [-h] --text TEXT [--configPath CONFIGPATH]
 
 ​	optional arguments:
   	-h, --help                      show this help message and exit
